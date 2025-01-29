@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>{message}</h1>
-      <button onClick={ () => setMessage('You clicked me!') }>
+      <button onClick={ () => setMessage('X Mobile') }>
         Click me
       </button>
     </div>
